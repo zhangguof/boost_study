@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost_example", "boost_example\boost_example.vcxproj", "{49B3619B-A080-4665-9D86-F5A67F7F5A5A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost_python", "boost_python\boost_python.vcxproj", "{7B11DE86-E34F-496D-BF77-68313427AF19}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost_python", "boost_python\boost_python.vcxproj", "{440E5D00-A704-4126-A2E1-5FD95DF40B9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,10 @@ Global
 		{49B3619B-A080-4665-9D86-F5A67F7F5A5A}.Debug|Win32.Build.0 = Debug|Win32
 		{49B3619B-A080-4665-9D86-F5A67F7F5A5A}.Release|Win32.ActiveCfg = Release|Win32
 		{49B3619B-A080-4665-9D86-F5A67F7F5A5A}.Release|Win32.Build.0 = Release|Win32
-		{7B11DE86-E34F-496D-BF77-68313427AF19}.Debug|Win32.ActiveCfg = Debug|Win32
-		{7B11DE86-E34F-496D-BF77-68313427AF19}.Debug|Win32.Build.0 = Debug|Win32
-		{7B11DE86-E34F-496D-BF77-68313427AF19}.Release|Win32.ActiveCfg = Release|Win32
-		{7B11DE86-E34F-496D-BF77-68313427AF19}.Release|Win32.Build.0 = Release|Win32
+		{440E5D00-A704-4126-A2E1-5FD95DF40B9C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{440E5D00-A704-4126-A2E1-5FD95DF40B9C}.Debug|Win32.Build.0 = Debug|Win32
+		{440E5D00-A704-4126-A2E1-5FD95DF40B9C}.Release|Win32.ActiveCfg = Release|Win32
+		{440E5D00-A704-4126-A2E1-5FD95DF40B9C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
