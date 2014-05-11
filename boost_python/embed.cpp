@@ -1,8 +1,7 @@
 //python embed test.
-//#pragma comment(lib,"python27.lib")
-//#pragma comment(lib,"libboost_python-vc100-mt-1_54.lib")
 
-#define BOOST_PYTHON_STATIC_LIB
+#define BOOST_PYTHON_STATIC_LIB //使用静态库,默认使用dll？
+//#define BOOST_PYTHON_SOURCE	//源码编译需要用
 
 
 #include <boost/python.hpp>
